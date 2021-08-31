@@ -1,0 +1,20 @@
+.home_content hr{
+    width: 100%;
+    margin-left: 45px;
+}
+
+.home_content .column i{
+    margin: 0 8px;
+}
+
+.home_content .column hr{
+    margin: 5px 0;
+}
+
+.home_content .column small{
+    margin-left: 90%;
+}
+
+.home_content .column .row{
+    margin-left: 650px  !important;
+}
